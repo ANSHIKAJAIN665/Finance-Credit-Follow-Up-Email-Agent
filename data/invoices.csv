@@ -1,0 +1,5 @@
+invoice_no,client_name,amount,due_date,email,followup_count
+INV001,Rajesh Kapoor,45000,2026-05-05,rajesh@gmail.com,1
+INV002,Priya Sharma,12000,2026-04-28,priya@gmail.com,2
+INV003,Amit Verma,78000,2026-04-20,amit@gmail.com,3
+INV004,TechNova Pvt Ltd,150000,2026-04-10,finance@technova.com,4
